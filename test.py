@@ -13,7 +13,6 @@ print("end")
 for i in range(3, 10, 2):
     print(i)
 
-
 for ch, n in zip(string.ascii_lowercase, range(20)):
     print("%s %d" % (ch, n))
 
